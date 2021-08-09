@@ -1,1 +1,2 @@
 line 1 - Git step 1
+line 2 - Git Step 2 by user in branch1
