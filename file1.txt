@@ -1,2 +1,3 @@
 line 1 - Git step 1
-line 2 -  Git step 2 by master
+line 2 -  Git step 2 by master and branch1
+
